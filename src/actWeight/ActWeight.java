@@ -24,7 +24,7 @@ public class ActWeight {
 	static String CSacc = "";
 	static String CSpw = "";
 
-	static String FTPServer = "jdbc:mysql://localhost:3306/k2aw";
+	static String FTPServer = "jdbc:mysql://localhost:3306/sweight";
 	static String FTPacc = "root";
 	static String FTPpw = "root";
 
