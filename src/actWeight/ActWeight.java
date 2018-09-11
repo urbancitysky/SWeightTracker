@@ -20,14 +20,9 @@ import java.text.SimpleDateFormat;
 
 public class ActWeight {
 
-	static String CSServer = "jdbc:mysql://K2-MSSQL:3306/aisdatax";
-	static String CSacc = "root";
-	static String CSpw = "ais";
-
-	/*
-	 * static String FTPServer = "jdbc:mysql://63.138.241.116:3306/awdata"; static
-	 * String FTPacc = "k2admin"; static String FTPpw = "k2awais";
-	 */
+	static String CSServer = "";
+	static String CSacc = "";
+	static String CSpw = "";
 
 	static String FTPServer = "jdbc:mysql://localhost:3306/k2aw";
 	static String FTPacc = "root";
